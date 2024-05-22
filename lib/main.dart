@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ostad_flutter_assignment_3/image_list_screen.dart';
+import 'package:flutter_assignment_3/image_list_screen.dart';
 
 void main() {
   runApp(const MainApp());

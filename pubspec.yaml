@@ -1,4 +1,4 @@
-name: ostad_flutter_assignment_3
+name: flutter_assignment_3
 description: "A new Flutter project to fetch and display photos from the following URL."
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1

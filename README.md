@@ -1,4 +1,4 @@
-# ostad_flutter_assignment_3
+# flutter_assignment_3
 
 A new Flutter project to fetch and display photos from the following URL.
 
